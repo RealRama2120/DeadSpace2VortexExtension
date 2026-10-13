@@ -1,0 +1,26 @@
+[
+  {
+    "version": "0.1.0",
+    "archive": "dead-space-2-vortex-extension-0.1.0.zip",
+    "archiveSha256": "fa78e177a0ee686f36f3f490a627a5978c187640afe4afbd304320a9923585cd",
+    "source": "Original packaged JavaScript, metadata, artwork and documentation extracted for browsing."
+  },
+  {
+    "version": "1.0.0",
+    "archive": "dead-space-2-vortex-extension-1.0.0.zip",
+    "archiveSha256": "450590fdca8cff3bee4329b2cf41ecf13b305fff758959bb5c964bf985224cdf",
+    "source": "Original packaged JavaScript, metadata, artwork and documentation extracted for browsing."
+  },
+  {
+    "version": "1.0.1",
+    "archive": "dead-space-2-vortex-extension-1.0.1.zip",
+    "archiveSha256": "25e873983df494ba07c75251de894d3aac974cc774947e8654531520918e25e2",
+    "source": "Original packaged JavaScript, metadata, artwork and documentation extracted for browsing."
+  },
+  {
+    "version": "1.0.2",
+    "archive": "dead-space-2-vortex-extension-1.0.2.zip",
+    "archiveSha256": "7cbb443dc4cb2c167af6406f59d0b82f243231c1e7dfd95b1b1550801ab1d317",
+    "source": "Current development source at repository root."
+  }
+]

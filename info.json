@@ -1,0 +1,7 @@
+{
+  "name": "Dead Space 2",
+  "author": "Rama2120",
+  "version": "1.0.2",
+  "description": "Vortex support for Dead Space 2: Steam and EA/Origin discovery, game-folder mods, ASI plugins, ReShade files and TexMod package management.",
+  "gameId": 2500
+}
